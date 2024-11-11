@@ -1,4 +1,4 @@
-# README for DBSys_Lab1_ALJENE
+# README 
 
 ## Overview
 Lab 1 for DBSys 2024-2025 at Eurecom focuses on building a data pipeline using a research publication dataset. This involves database schema design, data transformation, analysis, and visualization.
