@@ -1,7 +1,7 @@
 # README 
 
 ## Overview
-Lab 1 for DBSys 2024-2025 at Eurecom focuses on building a data pipeline using a research publication dataset. This involves database schema design, data transformation, analysis, and visualization.
+This Mini project  uses a research publication dataset to build a data pipeline. This involves database schema design, data transformation, analysis, and visualization.
 
 ## Objectives
 - **Setup PostgreSQL**
